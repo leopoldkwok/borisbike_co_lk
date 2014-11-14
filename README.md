@@ -1,4 +1,4 @@
-[![Code Climate](https://codeclimate.com/github/leopoldkwok/borisbike_co_lk/badges/gpa.svg)](https://codeclimate.com/github/leopoldkwok/borisbike_co_lk)
+[![Code Climate](https://codeclimate.com/github/leopoldkwok/borisbike_co_lk/badges/gpa.svg)](https://codeclimate.com/github/leopoldkwok/borisbike_co_lk)  [![Test Coverage](https://codeclimate.com/github/leopoldkwok/borisbike_co_lk/badges/coverage.svg)](https://codeclimate.com/github/leopoldkwok/borisbike_co_lk)
 Boris Bikes
 ===========
 
